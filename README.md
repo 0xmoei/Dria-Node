@@ -1,5 +1,7 @@
 # Dria-Node
 
+![Screenshot_391](https://github.com/user-attachments/assets/49054014-2d5a-41f8-ab10-238d606707ba)
+
 ## Install Dependecies
 ```
 # Docker
@@ -102,6 +104,8 @@ screen -S dria
 
 ![image](https://github.com/user-attachments/assets/7ca9f116-50e5-4649-b924-ba4c37b7832c)
 
+![image](https://github.com/user-attachments/assets/5582a204-c232-4f31-9c9f-d215cd0004f3)
+
 You can minimze the screen with `CTRL+A+D`
 
 
@@ -115,8 +119,6 @@ Join [Discord](https://discord.gg/dria) and Fill the [Form](https://docs.google.
 
 They will soon add a dashboard to track your progress
 
-After a while, you must get these logs in your screen
-![image](https://github.com/user-attachments/assets/5582a204-c232-4f31-9c9f-d215cd0004f3)
 
 To open your screen:`screen -r dria`
 To minimize your screen:`CTRL+A+D`
