@@ -28,7 +28,7 @@ sudo chmod +x /usr/local/bin/docker-compose
 # Docker version check
 docker --version
 ```
-```
+```console
 # Ollama
 curl -fsSL https://ollama.com/install.sh | sh
 ```
