@@ -1,6 +1,8 @@
 ![image](https://github.com/user-attachments/assets/28d801d4-b863-4f55-af14-cdbcc65c10b4)
 
 # Dria Node
+* Official Guide + Windows Version: https://dria.co/join
+* This guide is for Linux AMD (aka VPS)
 
 ## Install Dependecies
 ```console
