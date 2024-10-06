@@ -1,9 +1,9 @@
-# Dria-Node
+![image](https://github.com/user-attachments/assets/28d801d4-b863-4f55-af14-cdbcc65c10b4)
 
-![Screenshot_391](https://github.com/user-attachments/assets/49054014-2d5a-41f8-ab10-238d606707ba)
+# Dria Node
 
 ## Install Dependecies
-```
+```console
 # Docker
 sudo apt update -y && sudo apt upgrade -y
 for pkg in docker.io docker-doc docker-compose podman-docker containerd runc; do sudo apt-get remove $pkg; done
