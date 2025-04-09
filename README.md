@@ -54,9 +54,10 @@ screen -S dria
 dkn-compute-launcher start
 ```
 
-You can minimze the screen with `CTRL+A+D`
+![image](https://github.com/user-attachments/assets/18aae8e8-93b3-4dfb-bfaf-93f4341b2cc1)
 
-To open your screen again:`screen -r dria`
+* You can minimze the screen with `CTRL+A+D`
+* To open your screen again:`screen -r dria`
 
 ## 5- Create/Enter Invite Code
 Run:
