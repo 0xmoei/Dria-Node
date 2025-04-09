@@ -76,8 +76,13 @@ https://dria.co/edge-ai/my-node
 
 #
 
-### Uninstall Node
+### Node Commands Help
+```bash
+dkn-compute-launcher
 ```
+
+### Uninstall Node
+```bash
 dkn-compute-launcher uninstall
 ```
 
