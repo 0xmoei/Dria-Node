@@ -76,22 +76,9 @@ https://dria.co/edge-ai/my-node
 
 #
 
-### Stop and kill the Node
-**Stop Ollama Node**
-```console
-pgrep ollama
-# Example: if 74877, then use:
-kill 74877
-
-# OR
-
-sudo systemctl stop ollama
-sudo systemctl disable ollama
+### Uninstall Node
 ```
-
-**Stop Dria (Terminate screen)**
-```console
-screen -XS dria quit
+dkn-compute-launcher uninstall
 ```
 
 
