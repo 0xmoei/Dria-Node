@@ -24,7 +24,7 @@ source /root/.bashrc
 ```
 
 ## 3- Setup Dria Node
-```
+```console
 # Run a step by step nodesetup
 dkn-compute-launcher setup
 
@@ -41,9 +41,10 @@ dkn-compute-launcher settings
 
 ![image](https://github.com/user-attachments/assets/ac3b1bb4-0d07-4c16-8eca-458afbd7b22b)
 
+> Run `dkn-compute-launcher` alone to see other commands!
 
 ## 4-Run Dria Node
-```
+```console
 # Open a screen session to run it on background
 screen -S dria
 
@@ -57,7 +58,7 @@ To open your screen again:`screen -r dria`
 
 ## 5- Create/Enter Invite Code
 Run:
-```
+```bash
 dkn-compute-launcher referrals
 ```
 * Create your own referral code and enter mine for your own node: `yeDwejMIC7m3FtvM4vD5`
