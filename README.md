@@ -39,9 +39,11 @@ dkn-compute-launcher settings
   * `OpenRouter` is an API, You can buy credits with crypto to use it, Get API [here](https://openrouter.ai/settings/keys).
 * `API Keys`: Since I'm only using `gemini` annd `openrouter` models, then i only enter their APIs and skip others.
 
-![image](https://github.com/user-attachments/assets/ac3b1bb4-0d07-4c16-8eca-458afbd7b22b)
+![image](https://github.com/user-attachments/assets/924a2081-7730-4d4b-9506-357f957476d4)
 
-> Run `dkn-compute-launcher` alone to see other commands!
+> I just skipped `phi3.5:3.8b-mini-instruct-fp16` while it was `3.8b`, my system couldn't measure it.
+>
+> To measure your models: `dkn-compute-launcher settings` > Models > Measure local models > Press `Enter`
 
 ## 4-Run Dria Node
 ```console
