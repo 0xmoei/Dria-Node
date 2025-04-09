@@ -3,6 +3,7 @@
 # Dria Node
 * Official Guide + Windows Version: https://dria.co/join
 * This guide is for Linux AMD (aka VPS)
+* You can run on both `CPU-only` or `GPU` clouds or local systems
 
 ## 1- Install Dependecies
 ```console
