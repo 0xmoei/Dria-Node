@@ -34,15 +34,13 @@ dkn-compute-launcher settings
 * Make sure you modified `Wallet`, `Models`, `API Keys` and **Save & Exit**
 * `Wallet`: Enter your EVM wallet privatekey
 * `Models` I picked:
-  * `ollama`: Needs high specs since it's a local model, For my `GPU` sever, I picked all models with **less than `4b` parameters** like `qwen2.5-coder:1.5b` or `driaforall/tiny-agent-a:0.5b`
+  * `ollama`: Needs high specs since it's a local model, check [Model Requirements Guide](https://firstbatch.notion.site/DKN-Node-Specs-1a6fb2d195758077906fdb9c7c778764).
   * `gemini`: A google API with upto 1500 free requests daily, No cost, no high specs. Get your Google API [here](https://aistudio.google.com/app/apikey)
   * `OpenRouter` is an API, You can buy credits with crypto to use it, Get API [here](https://openrouter.ai/settings/keys).
 * `API Keys`: Since I'm only using `gemini` annd `openrouter` models, then i only enter their APIs and skip others.
 
 ![image](https://github.com/user-attachments/assets/924a2081-7730-4d4b-9506-357f957476d4)
 
-> I just skipped `phi3.5:3.8b-mini-instruct-fp16` while it was `3.8b`, my system couldn't measure it.
->
 > To measure your models: `dkn-compute-launcher settings` > Models > Measure local models > Press `Enter`
 
 ## 4-Run Dria Node
